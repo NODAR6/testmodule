@@ -49,4 +49,4 @@ jobs:
       run: terraform plan
 
     - name: Terraform Apply
-      run:  Terraform  Apply --auto-approve
+      run:  terraform  Apply --auto-approve
