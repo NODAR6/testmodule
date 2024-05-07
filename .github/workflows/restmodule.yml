@@ -34,7 +34,7 @@ jobs:
       with:
         depth: 1
         branch: 'main'
-        owner: 'NODAR^'
+        owner: 'NODAR6'
         repository: 'testmodule'
 
     - name: Change directory
